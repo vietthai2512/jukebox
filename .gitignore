@@ -1,0 +1,10 @@
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+src/main/.DS_Store
+.DS_Store
+target
